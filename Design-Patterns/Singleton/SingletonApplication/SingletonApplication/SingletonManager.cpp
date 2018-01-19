@@ -35,5 +35,5 @@ void SingletonManager::destroySingletonManagerInstance()
 		std::cout << "There is nothing to delete" << "\n";
 	}
 
-	else delete &SingletonManager::SingletonManagerInstance;
+	else SingletonManager::SingletonManagerInstance = nullptr;
 }

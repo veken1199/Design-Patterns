@@ -13,8 +13,8 @@ int main()
 	SingletonManager::destroySingletonManagerInstance();
 	SingletonManager::destroySingletonManagerInstance();
 
-	int exit; 
-	std::cin >> exit;
+	int x; 
+	std::cin >> x;
     return 0;
 }
 
