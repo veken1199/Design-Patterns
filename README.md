@@ -4,3 +4,5 @@
 
 ### List of patterns:
 - Singleton C++ 
+- Composition Java
+
