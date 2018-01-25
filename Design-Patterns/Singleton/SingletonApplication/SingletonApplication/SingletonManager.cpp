@@ -1,6 +1,7 @@
 #include "stdafx.h"
 #include "SingletonManager.h"
 
+// Initialize the static members
 SingletonManager* SingletonManager::SingletonManagerInstance;
 
 SingletonManager::SingletonManager()
