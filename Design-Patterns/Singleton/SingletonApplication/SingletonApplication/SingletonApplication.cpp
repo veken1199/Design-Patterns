@@ -2,7 +2,7 @@
 //
 
 #include "stdafx.h"
-#include "SingletonManager.h"
+#include "SingletonObj.h"
 
 int main()
 {
