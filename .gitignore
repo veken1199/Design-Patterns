@@ -329,3 +329,99 @@ ASALocalRun/
 
 # MSBuild Binary and Structured Log
 *.binlog
+
+Skip to content
+ 
+Search…
+All gists
+GitHub
+New gist
+@veken1199 
+  Star 8
+  Fork 11 @chhhchhh/.gitignore
+Last active a day ago • 
+Report gist
+Embed  
+<script src="https://gist.github.com/chhh/4961200.js"></script>
+  Download ZIP
+ Code  Revisions 3  Stars 8  Forks 11
+.gitignore file for IDEA, Eclipse, NetBeans
+Raw
+ .gitignore
+#
+# Project specific excludes
+#
+
+tomcat
+
+#
+# Default excludes
+#
+
+# Binaries
+*.7z
+*.dmg
+*.gz
+*.iso
+*.jar
+*.rar
+*.tar
+*.zip
+*.war
+*.ear
+*.sar
+*.class
+
+# Maven 
+target/
+
+# IntelliJ project files 
+*.iml
+*.iws
+*.ipr
+.idea/
+
+# eclipse project file
+.settings/
+.classpath
+.project
+
+# NetBeans specific
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+nbactions.xml
+nb-configuration.xml
+
+
+# OS
+.DS_Store
+
+# Misc
+*.swp
+release.properties
+pom.xml.releaseBackup
+pom.xml.tag
+ @veken1199
+  
+            
+ 
+Write  Preview
+
+Leave a comment
+Choose Files Attach files by dragging & dropping, selecting them, or pasting from the clipboard.  Styling with Markdown is supported
+Comment
+© 2018 GitHub, Inc.
+Terms
+Privacy
+Security
+Status
+Help
+Contact GitHub
+API
+Training
+Shop
+Blog
+About
