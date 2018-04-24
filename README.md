@@ -5,4 +5,5 @@
 ### List of patterns:
 - Singleton       (C++)
 - Composition     (java)
+- Decorator       (Java)
 
